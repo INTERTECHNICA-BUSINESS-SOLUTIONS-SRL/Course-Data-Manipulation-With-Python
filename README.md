@@ -1,3 +1,6 @@
+# 🎓 🧮🐍 Course: Data Manipulation with Python
+## 🛠️🧪 Hands on exercises
+
 This repository offers a structured, hands-on introduction to data manipulation using Python, aimed at learners who want to build foundational skills in handling and transforming data. 
 It uses Jupyter Notebooks as the primary format for instruction, allowing for an interactive and exploratory learning experience. The exercises emphasize both conceptual understanding and practical application.
 
